@@ -27,9 +27,9 @@
 
 
 ### 1. Clone the Repository
-    ```
-    git clone https://github.com/Winta843/todolist.git
-    ```
+    
+      git clone https://github.com/Winta843/todolist.git
+    
     
 ### 2. Set up the Backend
 1) Navigate to the server folder:
@@ -46,7 +46,7 @@
 
 3) Create a `.env` file in the `server` directory with the following content: 
    ```
-   MONGODB_URI=
+   MONGODB_URI=mongodb+srv:wintaabrahamsereke:<db_password>@cluster0.uxck7.mongodb.net/
    PORT=5000
    ```
 
