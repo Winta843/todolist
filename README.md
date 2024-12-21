@@ -28,7 +28,7 @@
 
 ### 1. Clone the Repository
     ```
-    git clone 
+    git clone https://github.com/Winta843/todolist.git
     ```
     
 ### 2. Set up the Backend
